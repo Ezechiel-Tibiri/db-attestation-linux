@@ -15,7 +15,7 @@
 |A011|TUINA 	Sévérin|UJKZ|severintuina1@gmail.com|
 |A012|SAWAD0G0 	Tégawendé Alphonse|UJKZ|alphonsesawadogo1@gmail.com|
 |A013|ZOURE	Abdou AzaqueI|IRSS/CNRST|zabdouazaque@yahoo.fr|
-|A014|TONDE	Ignace 	UJKZ|ignace.tonde15@gmail.com|
+|A014|TONDE	Ignace 	|UJKZ|ignace.tonde15@gmail.com|
 |A015|SOGOBA	Kouka Hamidou|UJKZ|sogobakouka@gmail.com|
 |A016|NIKIEMA	Dominique|UJKZ|nikiemadomingo@gmail.com|
 |A017|KABORE	Dramane|UJKZ|dramanekabore61@gmail.com|
@@ -24,4 +24,4 @@
 |A020|ILBOUDO 	Maimouna|	UJKZ|m.ilboudo@labiogene.org| 
 |A021|SAWADOGO	Hamed|UJKZ|chrispanga@yahoo.com|
 |A022|KIEBRE 	MARIAM|UJKZ|mkiebre@yahoo.fr|
-|A023|BOUGMA	Lardia Ali|UJKZ	alilardia@gmail.com|
+|A023|BOUGMA	Lardia Ali|UJKZ|alilardia@gmail.com|
