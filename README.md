@@ -24,4 +24,3 @@
 |A020|ILBOUDO 	Maimouna|	UJKZ|m.ilboudo@labiogene.org| 
 |A021|SAWADOGO	Hamed|UJKZ|chrispanga@yahoo.com|
 |A022|KIEBRE 	MARIAM|UJKZ|mkiebre@yahoo.fr|
-|A023|BOUGMA	Lardia Ali|UJKZ|alilardia@gmail.com|
