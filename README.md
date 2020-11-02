@@ -30,5 +30,5 @@
 |Code |Nom & Prénoms| Structure | email |    
 | :---:| :---------:|:---------:| :-----:|
 |B01|TIENDREBEOGO	Fidèle |INERA/CNRST|fidele.tiendrebeogo@wave-center.org|
-|B02|TIBIRI B. Ezechiel|INERA/CNRST|e.tibiri@agshare|
+|B02|TIBIRI B. Ezechiel|INERA/CNRST|e.tibiri@agshare.today|
 |B03|BARRA Ousmane|UJKZ|obarrao@gmail.com|
