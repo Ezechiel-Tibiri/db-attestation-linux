@@ -24,3 +24,11 @@
 |A020|ILBOUDO 	Maimouna|	UJKZ|m.ilboudo@labiogene.org| 
 |A021|SAWADOGO	Hamed|UJKZ|chrispanga@yahoo.com|
 |A022|KIEBRE 	MARIAM|UJKZ|mkiebre@yahoo.fr|
+
+# Base de données des formateurs
+
+|Code |Nom & Prénoms| Structure | email |    
+| :---:| :---------:|:---------:| :-----:|
+|B01|TIENDREBEOGO	Fidèle |INERA/CNRST|fidele.tiendrebeogo@wave-center.org|
+|B02|TIBIRI B. Ezechiel|INERA/CNRST|e.tibiri@agshare|
+|B03|BARRA Ousmane|UJKZ|obarrao@gmail.com|
