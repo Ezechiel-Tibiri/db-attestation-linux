@@ -1,4 +1,4 @@
-# 1. [Base de données des attestation delivré à la formation GNU/linux depuis 2020](https://github.com/bioinfoujkz/db-attestation-linux)
+# 1. [Base de données des attestations delivrées depuis 2020](https://github.com/bioinfoujkz/db-attestation-linux)
 
 |Code |Nom & Prénoms| Structure | email |    
 | :---:| :---------:|:---------:| :-----:|
