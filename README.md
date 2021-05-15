@@ -24,6 +24,33 @@
 |A020|ILBOUDO 	Maimouna|	UJKZ|m.ilboudo@labiogene.org| 
 |A021|SAWADOGO	Hamed|UJKZ|chrispanga@yahoo.com|
 |A022|KIEBRE 	MARIAM|UJKZ|mkiebre@yahoo.fr|
+|A023|BAKO Evariste|CU-Tenkodogo|evaristebako80@gmail.com|
+|A024|BALMA Patrice|UJKZ|patricebalma5@gmail.com|
+|A025|BELEM	Panebyame Abdoul Aziz|	CHUSS|	ouwabelem@gmail.com |
+|A026|BOUDA 	Soutongnooma Caroline|	UJKZ|boudacaroline@gmail.com|
+|A027|DEME	Korotimi|UJKZ|korotimi.deme.90@gmail.com|
+|A028|GUEDJE 	Déborah Ameli Evenunyé|UJKZ|deborahguedje@gmail.com |
+|A029|HADJAGOUN Alexandre|UJKZ UFR/SDS|alexandrehadjagoun@gmail.com|
+|A030|HOUEDJISSIN 	Sètondji Serge|Université d’Abomey-Calavi (Bénin)	|sergesth01@yahoo.fr |
+|A031|HOUNGUE 	Anani Jérôme|	Université d’Abomey-Calavi (Bénin)|hounanje@gmail.com|
+|A032|KIENDREBEOGO	Touwendpoulimdé Isabelle|UJKZ|kitouwendpoulimde@gmail.com|
+|A033|KIENTEGA	Pèlega|UJKZ|pelkient@gmail.com|
+|A034|KONATE	Moussa N'Golo|INERA|ngolokonate13@yahoo.fr|
+|A035|NACAMBO	Haoua|UJKZ|hnacambo@yahoo.fr|
+|A036|NIAONE	Mandinatou|UJKZ|niaonemandinatou@gmail.com|
+|A037|OUANGRAOUA 	Wendpingrenoma Jocelyne|UJKZ|josyouang@gmail.com|
+|A038|OUEDREOGO	Wendinso|UJKZ	|ashbeloued1@gmail.com	|
+|A039|SAWADOGO	Yacouba|CHUSS|	yac_saw@yahoo.fr|
+|A040|SAWADOGO	Zakaridja|UJKZ|sawazakaria@gmail.com|
+|A041|SAWADOGO	Pingawindé|UJKZ|pingasaw82@yahoo.fr|
+|A042|SEDOGO 	Alphonse|UJKZ|asdenatenga@gmail.com|
+|A043|SOULAMA 	Issiaka|CNRFP|soulamacnrfp@gmail.com|
+|A044|TIENDREBEOGO	Josiane|UJKZ|jositiendre@gmail.com|
+|A045|Ziani	Meryam|IRD|meryam.ziani@ird.fr|
+|A046|ZONGO	G. Sandrine|UJKZ|sandrinezongo04@gmail.com|
+|A047|ZONGO 	Saïdou|UJKZ|	zongosaidou642@gmail.com|
+|A048|ZONGO 	W. Arsène|Centre MURAZ|arsenezo@yahoo.fr|
+
 
 # Base de données des formateurs
 
@@ -32,3 +59,4 @@
 |B01|TIENDREBEOGO	Fidèle |INERA/CNRST|fidele.tiendrebeogo@wave-center.org|
 |B02|TIBIRI B. Ezechiel|INERA/CNRST|e.tibiri@agshare.today|
 |B03|BARRA Ousmane|UJKZ|obarrao@gmail.com|
+|B04|BOUA Palwendé|IRSS-DRCO/(CRUN)|romyboua@gmail.com|
