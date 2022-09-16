@@ -50,6 +50,16 @@
 |A046|ZONGO	G. Sandrine|UJKZ|sandrinezongo04@gmail.com|
 |A047|ZONGO 	Saïdou|UJKZ|	zongosaidou642@gmail.com|
 |A048|ZONGO 	W. Arsène|Centre MURAZ|arsenezo@yahoo.fr|
+|A048|CISSE	Assana|LNR-G|assanacisse@yahoo.fr|
+|A049|DABIRE Kounbo|UTS|dabirekounbo@gmail.com|
+|A050|KANE Fousseyni|ICER|fouskane@icermali.org|
+|A051|LALLOGO P. Doriane Tatiana|LABIOGENE|lallogodoriane@gmail.com |
+|A052|NADEMBEGA Wendyam Marie Christelle|UJKZ|wendyam.nadembega@ujkz.bf|
+|A053|NAME Pakyendou Estel|INERA|pakyendouename@gmail.com|
+|A054|OUEDRAOGO	Delwendé Florence|IRSS|oudeflo@yahoo.fr|
+|A055|SANON	Bokuena|UJKZ|bokuenasanon95@gmail.com|
+|A056|TRAORE Bourama|ICER|bouramat@icermali.org|
+
 
 
 # Base de données des formateurs
